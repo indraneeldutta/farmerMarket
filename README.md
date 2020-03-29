@@ -7,4 +7,4 @@ Uses Ruby 2.7
  2. Run `bundle install` to install the necessary packages
 
 ## Testing
-Test are written in Rspec. Add necessary scenarios to test multiple cases and Run `rake`. 
+Test are written in Rspec. Add necessary scenarios to `spec\farmermarket_spec.rb` file to test multiple cases and Run `rake`. 
